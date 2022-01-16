@@ -18,3 +18,6 @@ curl localhost:8080/users
 ```
  ## To look at the dependency injection using wire
  Switch to the branch : [dependency_injection_using_wire](https://github.com/heartBrokenGod/direference/tree/dependency_injection_using_wire)
+<br>
+ ## To look at the dependency injection using dig
+ Switch to the branch : [dependency_injection_using_dig](https://github.com/heartBrokenGod/direference/tree/dependency_injection_using_dig)
